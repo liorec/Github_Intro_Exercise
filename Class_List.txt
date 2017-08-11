@@ -4,4 +4,4 @@ Section EF-5L
 Name				Student Number
 
 Fermin Roberto G. Lapitan	xxxx-40281
-John Dewey B. Legaspi      2015-08799
+John Dewey B. Legaspi          2015-08799
