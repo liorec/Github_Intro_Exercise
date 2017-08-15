@@ -1,8 +1,6 @@
 CMSC 100
-Section EF-5L
+Section EF-2L
 
 Name				Student Number
 
 Fermin Roberto G. Lapitan	xxxx-40281
-Clarisse Sydney Cortez		2015-0091
-John Dewey B. Legaspi           2015-08799
